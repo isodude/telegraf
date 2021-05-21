@@ -118,6 +118,7 @@ require (
 	github.com/tidwall/gjson v1.6.0
 	github.com/tinylib/msgp v1.1.5
 	github.com/tklauser/go-sysconf v0.3.5 // indirect
+	github.com/tonobo/mtr v0.1.1-0.20210422192847-1c17592ae70b // indirect
 	github.com/vapourismo/knx-go v0.0.0-20201122213738-75fe09ace330
 	github.com/vjeantet/grok v1.0.1
 	github.com/vmware/govmomi v0.19.0

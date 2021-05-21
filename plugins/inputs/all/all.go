@@ -108,6 +108,7 @@ import (
 	_ "github.com/influxdata/telegraf/plugins/inputs/mongodb"
 	_ "github.com/influxdata/telegraf/plugins/inputs/monit"
 	_ "github.com/influxdata/telegraf/plugins/inputs/mqtt_consumer"
+	_ "github.com/influxdata/telegraf/plugins/inputs/mtr"
 	_ "github.com/influxdata/telegraf/plugins/inputs/multifile"
 	_ "github.com/influxdata/telegraf/plugins/inputs/mysql"
 	_ "github.com/influxdata/telegraf/plugins/inputs/nats"
