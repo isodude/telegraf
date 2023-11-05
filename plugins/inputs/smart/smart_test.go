@@ -2407,7 +2407,6 @@ cntlid  : 0
 ver     : 0
 rtd3r   : 0
 rtd3e   : 0
-<<<<<<< HEAD
 oaes    : 0
 ctratt  : 0
 oacs    : 0x6
